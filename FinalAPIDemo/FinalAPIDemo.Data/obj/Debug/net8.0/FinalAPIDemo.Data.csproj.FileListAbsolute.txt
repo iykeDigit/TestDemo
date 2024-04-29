@@ -1,0 +1,17 @@
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Data.deps.json
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Data.runtimeconfig.json
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Data.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Data.pdb
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Model.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\bin\Debug\net8.0\FinalAPIDemo.Model.pdb
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPI.B62821BC.Up2Date
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\refint\FinalAPIDemo.Data.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.pdb
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\FinalAPIDemo.Data.genruntimeconfig.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Data\obj\Debug\net8.0\ref\FinalAPIDemo.Data.dll

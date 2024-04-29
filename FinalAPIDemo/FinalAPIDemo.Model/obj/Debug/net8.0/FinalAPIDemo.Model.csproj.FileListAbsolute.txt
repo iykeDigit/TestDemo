@@ -1,0 +1,14 @@
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\bin\Debug\net8.0\FinalAPIDemo.Model.deps.json
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\bin\Debug\net8.0\FinalAPIDemo.Model.runtimeconfig.json
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\bin\Debug\net8.0\FinalAPIDemo.Model.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\bin\Debug\net8.0\FinalAPIDemo.Model.pdb
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\refint\FinalAPIDemo.Model.dll
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.pdb
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\FinalAPIDemo.Model.genruntimeconfig.cache
+C:\Users\IKECHUKWU\Desktop\INTUIT\APIs\FinalAPIDemo\FinalAPIDemo.Model\obj\Debug\net8.0\ref\FinalAPIDemo.Model.dll
