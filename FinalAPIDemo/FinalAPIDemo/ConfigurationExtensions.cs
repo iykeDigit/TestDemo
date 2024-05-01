@@ -1,4 +1,5 @@
-﻿using FinalAPIDemo.Data;
+﻿using FinalAPIDemo.Core;
+using FinalAPIDemo.Data;
 using Nito.AsyncEx;
 
 namespace FinalAPIDemo
@@ -19,6 +20,14 @@ namespace FinalAPIDemo
                         }
                     }
                 });
+        }
+
+        public static void Extensions(this IServiceCollection services, IConfiguration configuration)
+        {
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            services.AddSqlServer<AppDbContext>(connectionString);
+            services.AddScoped<IPlayersService, PlayersService>();
+            services.AddScoped<IDataSeeder, DataSeeder>();
         }
     }
 }

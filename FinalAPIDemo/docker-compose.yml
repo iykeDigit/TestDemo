@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  finalapidemo:
-    image: ${DOCKER_REGISTRY-}finalapidemo
-    build:
-      context: .
-      dockerfile: FinalAPIDemo/Dockerfile

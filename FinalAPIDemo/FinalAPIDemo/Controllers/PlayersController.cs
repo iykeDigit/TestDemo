@@ -3,6 +3,7 @@ using FinalAPIDemo.Core.Pagination;
 using FinalAPIDemo.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NLog;
 
 namespace FinalAPIDemo.Controllers
 {
@@ -11,10 +12,11 @@ namespace FinalAPIDemo.Controllers
     public class PlayersController : ControllerBase
     {
         private readonly IPlayersService _playerService;
-
-        public PlayersController(IPlayersService playerService)
+        private ILogger<PlayersController> _logger;
+        public PlayersController(IPlayersService playerService, ILogger<PlayersController> logger)
         {
             _playerService = playerService;
+            _logger = logger;
         }
 
         [HttpGet("players")]
@@ -22,6 +24,7 @@ namespace FinalAPIDemo.Controllers
         {
             try
             {
+                _logger.LogInformation("Retrieving all players from db");
                 return Ok(await _playerService.GetAllPlayersAsync(filter));
             }
             catch (ArgumentNullException ex)
